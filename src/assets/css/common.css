@@ -1,0 +1,46 @@
+/**
+** 全局样式
+*/
+
+html, body {
+  font-size: 24px;
+  -webkit-tap-highlight-color: transparent;
+  height: 100%;
+}
+
+div {
+  box-sizing: border-box;
+  position: relative;
+}
+
+section {
+  width: 750px;
+  margin: 0 auto;
+  position: relative;
+}
+
+img {
+  content: normal !important;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+p {
+  margin: 0;
+}
+
+input:focus {
+  outline: none;
+}
+
+.fixed-page {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
