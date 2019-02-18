@@ -1,4 +1,4 @@
-# webpack-vue
+# Vue template
 
 > A Vue.js project
 
